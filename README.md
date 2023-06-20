@@ -2,7 +2,7 @@
 
 ## [Sudoku Solver](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/sudoku-solver)
 
-Working example: https://app-sudoku-solverr.herokuapp.com/
+Working example: https://app-sudoku-solverr.webdev.priv.pl/
 
 My git repo: https://github.com/Raff1010X/01.Roadmap
 
